@@ -1,6 +1,7 @@
 # Internship_Work
 WorkDone at Infilytics
 
+
 This repo is containig the work, I have done during my internship.
 Problem Statement: Predict Sales for Today in morning(let's say) and compare today's sales value at the end of day. Now, If company has made sales a lot more/less 
 than predicted value then make conclusions from it. 
