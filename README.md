@@ -3,15 +3,11 @@ WorkDone at Infilytics
 
 
 This repo is containig the work, I have done during my internship.
-Problem Statement: Predict Sales for Today in morning(let's say) and compare today's sales value at the end of day. Now, If company has made sales a lot more/less 
-than predicted value then make conclusions from it. 
 
+### Problem Statement
+While Auditing for company, CAs recieve a lot of data entries of company's transections. Among them, My task was related to Sales Part essentially. For CAs it is not possible to go through each sales entry and apply statistics. So, they do random sampling and take random sales data and apply statistics on that. Now, Because of this randomisation some inconsist data entried can be caught but some might not. Here, I had to find specific entries and give it as output then these entries can be analysed. 
 
----------------------------------------------------- OR -----------------------------------------------------
-
-
-Find Data points where company have done less sales then trend or more then trend and display those dates then company can run their analysis on it.
-
+I have successfully implemented the given problem. My model gives dates on which analysis is needed. With My model company can also set target sales value for future dates.
 
 At very first, I preprocessed the data and get through it once.
 
